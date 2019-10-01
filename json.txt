@@ -1,0 +1,41 @@
+{
+    "usuario": {
+        "sexo": [
+            "M"
+        ],
+        "tipoUsuario": [
+            "profissional"
+        ],
+        "_id": "5cc346fb7a51491220f8a694",
+        "nome": "jose da Silva",
+        "endereco": [
+            {
+                "_id": "5cc346fb7a51491220f8a695",
+                "rua": "ruam concordia",
+                "nº": "12e",
+                "bairro": "zona norte",
+                "cidade": "recife",
+                "estado": "Pernambuco"
+            }
+        ],
+        "telefone": [
+            {
+                "_id": "5cc346fb7a51491220f8a696",
+                "ddd": 12,
+                "numero": 111111111
+            }
+        ],
+        "email": "josegmail.com",
+        "infoProfissional": {
+            "especialidade": "restauração",
+            "cnpj": "123456789",
+            "areaAtuacao": {
+                "nome": "design",
+                "descricao": "estilização e formatos de materiais e afins"
+            }
+        },
+        "nascimento": "2019-04-26T17:59:23.378Z",
+        "__v": 0
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjYzM0NmZiN2E1MTQ5MTIyMGY4YTY5NCIsInRpcG8iOlsicHJvZmlzc2lvbmFsIl0sImlhdCI6MTU1NjMwMTU2MywiZXhwIjoxNTU2Mzg3OTYzfQ.ccaEtI4W-x8oilnONKHZQGXfDo2ZF66Dzlt5zZFtMB4"
+}
